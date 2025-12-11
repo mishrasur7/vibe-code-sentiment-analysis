@@ -1,7 +1,4 @@
-***
-
-```markdown
-# 🎭 The Vibe Check: AI Sentiment Analysis
+## 🎭 The Vibe Check: AI Sentiment Analysis
 
 **The Vibe Check** is a Python-based web application that utilizes artificial intelligence to analyze the emotional tone of text. By leveraging Hugging Face's `transformers` library, the app can instantly detect if a user's input is **Positive** or **Negative** with a specific confidence score.
 
@@ -67,7 +64,7 @@ pip install -r requirements.txt
 ### 1. Start the App
 Run the following command in your terminal:
 ```bash
-python app.py
+python3 app.py
 ```
 
 ### 2. Access the Interface
